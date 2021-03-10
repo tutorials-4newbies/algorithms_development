@@ -16,3 +16,5 @@
 * Insert sort notebook [binder](https://mybinder.org/v2/gh/tutorials-4newbies/algorithms_development/master?filepath=insert_sort.ipynb)
 
 * Bubble sort notebook [binder](https://mybinder.org/v2/gh/tutorials-4newbies/algorithms_development/master?filepath=bubble_sort.ipynb)
+
+* Summing up [binder](https://mybinder.org/v2/gh/tutorials-4newbies/algorithms_development/master?filepath=sorting_summing_up.ipynb)
