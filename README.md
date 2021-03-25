@@ -8,7 +8,7 @@
 * divide and conquer notebook [binder](https://mybinder.org/v2/gh/tutorials-4newbies/algorithms_development/master?filepath=divide_conquer_binary_search.ipynb)
 
 
-* list algorithms 2 notebook [binder](https://mybinder.org/v2/gh/tutorials-4newbies/algorithms_development/master?filepath=list_algorithms_2.ipynb)
+* list algorithms 2 notebook [binder](https://mybinder.org/v2/gh/tutorials-4newbies/algorithms_development/master?filepath=sortings/list_algorithms_2.ipynb)
 
 * Selection sort notebook [binder](https://mybinder.org/v2/gh/tutorials-4newbies/algorithms_development/master?filepath=sortings/selection_sort.ipynb)
 
